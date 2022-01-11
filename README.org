@@ -2,3 +2,4 @@
 ** 说明
 我自己使用windows系统时候遇到的部分技巧，做一个汇总梳理，后续兴许在不同的电脑上会反复用到。
 ** 学习笔记
+- [[https://greyzhang.blog.csdn.net/article/details/122442805][1009_删除早期版本的Legacy WSL]]
