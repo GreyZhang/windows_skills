@@ -6,3 +6,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122972831][1155_Windows10安装.NET Framework 3.5]]
 - [[https://blog.csdn.net/grey_csdn/article/details/125434178][1279_VMWare Player安装VMWare Tools时VSock安装失败解决]]
 - [[https://blog.csdn.net/grey_csdn/article/details/129696629][1649_Excel中删除重复的数据]]
+- [[https://blog.csdn.net/grey_csdn/article/details/130551105][1703_LibreOffice常用功能使用体验]]
