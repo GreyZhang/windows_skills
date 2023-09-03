@@ -9,3 +9,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/130551105][1703_LibreOffice常用功能使用体验]]
 - [[https://blog.csdn.net/grey_csdn/article/details/130665808][1709_几种思维导图软件试用对比]]
 - [[https://blog.csdn.net/grey_csdn/article/details/132595150][1772_WPS关闭WPS热点和云服务等模块]]
+- [[https://blog.csdn.net/grey_csdn/article/details/132645818][1780_添加鼠标右键空白打开命令窗功能]]
